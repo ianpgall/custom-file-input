@@ -10,6 +10,7 @@
 .custom-file-input > .file-text,
 .custom-file-input > .file-button {
     height: 30px;
+    line-height: 30px;
 }
 
 .custom-file-input > .file-text,
@@ -22,7 +23,6 @@
     display: inline-block;
     width: 250px;
     overflow: hidden;
-    line-height: 30px;
     padding-left: 4px;
     border: 1px solid #ccc;
     border-radius: 3px;
@@ -38,7 +38,6 @@
     border-radius: 5px;
     border: 1px solid #0066ff;
     color: #fff;
-    line-height: 30px;
     font-size: 13px;
     font-weight: bold;
     vertical-align: middle;
