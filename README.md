@@ -1,6 +1,11 @@
 custom-file-input
 =================
 
-CSS and functionality of a custom &lt;input type="file" /> element
+Provides the basic CSS and functionality of a custom `<input type="file" />` element.
 
-DEMO: http://jsfiddle.net/Z8y6W/8/
+Future
+------
+
+Allows the initialization of specific elements, as well as tapping into its events.
+
+DEMO: http://jsfiddle.net/VZcTV/
