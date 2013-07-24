@@ -22,7 +22,8 @@
     display: inline-block;
     width: 250px;
     overflow: hidden;
-    padding: 4px 4px 0;
+    line-height: 30px;
+    padding-left: 4px;
     border: 1px solid #ccc;
     border-radius: 3px;
     vertical-align: middle;
@@ -37,11 +38,11 @@
     border-radius: 5px;
     border: 1px solid #0066ff;
     color: #fff;
+    line-height: 30px;
     font-size: 13px;
     font-weight: bold;
     vertical-align: middle;
     text-align: center;
-    padding: 4px 3px;
     margin: 0 0 0 1px;
     
     background: #1e5799; /* Old browsers */
