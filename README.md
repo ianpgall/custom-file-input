@@ -8,4 +8,4 @@ Future
 
 Allows the initialization of specific elements, as well as tapping into its events.
 
-DEMO: http://jsfiddle.net/VZcTV/
+DEMO: http://jsfiddle.net/RgUfp/
